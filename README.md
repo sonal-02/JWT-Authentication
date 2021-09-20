@@ -2,7 +2,7 @@
 
 ### This project create JWT Authentication
 
-#### In this project JWT authentication is used for manager login, singup and to CURD operations for employee.
+#### In this project JWT authentication is used for manager login, singup and to perform CURD operations for employee.
 
 **TokenAuthentication**
 This file contains basic django project file.
